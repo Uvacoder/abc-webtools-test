@@ -21,9 +21,8 @@
           <div class="column is-12">
             <div class="tool-card content coming-soon">
               <p>
-                More tools will be added as I need them. If you want to request
-                a tool, tweet at me,
-                <a href="https://twitter.com/0NEGUYY">@0NEGUYY</a> .
+                This is still a work in progress
+                <a href="https://github.com/22940dev">@22940dev</a> .
               </p>
             </div>
           </div>
@@ -47,14 +46,6 @@ export default {
           description: "Upload an image to be converted to Base-64 format.",
           route: "/tools/b64",
           iconClasses: "fas fa-terminal",
-        },
-        {
-          name: "Twitch Utilities",
-          description:
-            "Various tools, resources, and utilities to aid in extension and bot development.",
-          route: "/tools/twitch",
-          brandColor: "twitch",
-          iconClasses: "fab fa-twitch",
         },
         {
           name: "Netlify Functions",
