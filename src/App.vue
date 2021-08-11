@@ -5,7 +5,7 @@
         <div class="container has-text-centered">
           <div class="columns is-centered">
             <div class="column is-4">
-              <h1 class="title">Eric's Web Tools</h1>
+              <h1 class="title">WebTools for Programming</h1>
               <p style="color: ghostwhite">
                 A public collection of browser-based tools, utilities, and
                 resources to help aid in web development.
