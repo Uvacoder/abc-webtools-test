@@ -23,12 +23,6 @@ const routes = [
       import(/* webpackChunkName: "b64" */ "../views/tools/b64.vue"),
   },
   {
-    path: "/tools/twitch",
-    name: "Twitch",
-    component: () =>
-      import(/* webpackChunkName: "twitch" */ "../views/tools/twitch.vue"),
-  },
-  {
     path: "/login",
     name: "Login",
     component: () =>
