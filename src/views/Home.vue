@@ -22,7 +22,7 @@
             <div class="tool-card content coming-soon">
               <p>
                 This is still a work in progress
-                <a href="https://github.com/22940dev">@22940dev</a> .
+                <a href="https://github.com/uvacoder">@uvacoder</a> .
               </p>
             </div>
           </div>
