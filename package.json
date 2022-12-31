@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "buefy": "^0.9.4",
+    "buefy": "^0.9.22",
     "core-js": "^3.6.5",
     "firebase": "^8.2.2",
     "querystring": "^0.2.1",
